@@ -24,6 +24,9 @@
   new technologies, pick up unfamiliar stacks, and keep improving
   with every project I ship.
 
+  This is my primary GitHub account since June 2026 (replacing my
+  previous account); earlier work is documented on my portfolio.
+
                                                   — Muhammad Fayaadh
 └──────────────────────────────────────────────────────────────────────┘
 ```
